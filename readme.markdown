@@ -6,7 +6,8 @@
 
 2. Move **metadata_course.markdown** from the **Metadata** folder to the root level of the course repo.
 3. Delete the **Metadata** folder (which will contain **metadata_screencast.markdown**).
-4. Move the appropriate desktop background image out of the **Desktop Backgrounds** folder, into the **Demo Recording Guides** folder, and then delete the **Desktop Backgrounds** folder.
+4. Move **Promo Script.markdown** from the **Script & Slide Templates** folder to the root level of the course repo.
+5. Move the appropriate desktop background image out of the **Desktop Backgrounds** folder, into the **Demo Recording Guides** folder, and then delete the **Desktop Backgrounds** folder.
 
 # For New Screencasters
 
