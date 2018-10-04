@@ -8,7 +8,7 @@
 3. Delete the **Metadata** folder (which will contain **metadata_screencast.markdown**).
 4. Move the appropriate desktop background image out of the **Desktop Backgrounds** folder, into the **Demo Recording Guides** folder, and then delete the **Desktop Backgrounds** folder.
 
-# For a Screencast
+# For New Screencasters
 
 2. Move **metadata_screencast.markdown** from the **Metadata** folder to the **Starter Kit** folder.
 3. Delete the **Metadata** folder (which will contain **metadata_course.markdown**).
