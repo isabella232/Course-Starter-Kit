@@ -43,7 +43,9 @@ The first video in each course is automatically free to non-subscribers. Choose 
 
 2. *Swift Playgrounds*: Learn how to create your first Swift playground, and see how useful it can be to learn Swift, and use in day-to-day development. [FREE]
 
-3. *Conclusion*: Let's review where you are with your Swift core concepts, and discuss what's next. [Swift 4, iOS 11 Beta 6, Xcode 9]
+3. *Challenge: Using Playgrounds*: Practice using while loops on your own, through a hands-on challenge.
+
+4. *Conclusion*: Let's review where you are with your Swift core concepts, and discuss what's next. [Swift 4, iOS 11 Beta 6, Xcode 9]
 
 ## Part 2: Flow Control
 
@@ -51,7 +53,5 @@ The first video in each course is automatically free to non-subscribers. Choose 
 
 2. *While Loops*: Learn how to make Swift repeat your code multiple times with while loops, repeat while loops, and break statements.
 
-3. *Challenge: While Loops*: Practice using while loops on your own, through a hands-on challenge.
-
-4. *Conclusion*: Let's review what you learned in this section, and discuss what's next.
+3. *Conclusion*: Let's review what you learned in this section, and discuss what's next.
 
