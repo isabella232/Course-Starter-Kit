@@ -1,32 +1,29 @@
 # Course Promo Video
 
-For each course we make or update on our site, we create a special promotional video to help spread the word about your new course in a fun and engaging way.
+For each course we make or update on our site, we create a special promotional video to help spread the word about your new course.
 
 Promo videos should follow this structure:
 
-1. **Welcome** the student and say **who the course is for**.
-2. **Describe a problem** the target student has likely encountered.
-3. **Show the solution** - your course - and what the student will be able to do by the end.
-4. **Give a few details** by listing the course highlights.
-5. **Call to action.**
+1. **Describe a problem** the target student has likely encountered.
+2. **Show the solution** - your course - and what the student will be able to do by the end.
+3. **Give a few details** by listing the course highlights.
+4. **Call to action.**
 
 ## Script
 
-*Add your promo script to this file using the template below!* 
+*Add your promo script to this file, replacing the template below!* 
 
-*Feel free to tweak the template to better suit your course and speaking style, as long as you follow the 5 steps listed above.*
+*Feel free to tweak the template to better suit your course and speaking style, as long as you follow the 4 steps listed above.*
 
 --
 
-Welcome to _ [course title], a course for _ [skill level/platform] developers.
-
 Have you ever _? [describe the most common problem your course solves in one to two sentences.]
 
-Complete my course so you can _ [describe what they'll be able to do by the end of the course. Should relate directly to the problem mentioned in the sentence above.]
+Complete my course so you can _ *or* Follow along with my course to _ [describe what they'll be able to do by the end of the course. Should relate directly to the problem mentioned in the sentence above.]
 
 You’ll learn _ [list out the main content topics of the course - just the highlights, not a comprehensive list]
 
-This course is available now for raywenderlich.com subscribers. Enjoy!
+This course is available now for raywenderlich.com subscribers.
 
 ## Demo Footage
 
