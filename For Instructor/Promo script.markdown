@@ -13,7 +13,7 @@ Promo videos should follow this structure:
 
 *Add your promo script to this file, replacing the template below!* 
 
-*Feel free to tweak the template to better suit your course and speaking style, as long as you follow the 4 steps listed above. But do not change the ending sentence!*
+*Feel free to tweak the template to better suit your course and speaking style, as long as you follow the 4 steps listed above. But do NOT change the ending sentence!*
 
 --
 
@@ -23,7 +23,7 @@ Complete my course so you can _ *or* Follow along with my course to _ [describe 
 
 You’ll learn _ [list out the main content topics of the course - just the highlights, not a comprehensive list]
 
-This course is available now for raywenderlich.com subscribers.
+This course is available now for raywenderlich.com subscribers. (Reminder: don't change this sentence)
 
 --
 
