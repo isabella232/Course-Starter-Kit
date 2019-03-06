@@ -1,5 +1,7 @@
 # Note: Don't update this anymore. Use the one in GitLab - that's the current version as of Feb 8 2019
 
+https://gitlab.com/raywenderlich.com/videos/courses/course-starter-kit/blob/master/For%20Instructor/Promo%20script.markdown
+
 # Course Promo Video
 
 For each course we make or update on our site, we create a special promotional video to help spread the word about your new course.
