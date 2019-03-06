@@ -15,7 +15,7 @@ Promo videos should follow this structure:
 
 *Add your promo script to this file, replacing the template below!* 
 
-*Feel free to tweak the template to better suit your course and speaking style, as long as you follow the 4 steps listed above. But do NOT change the ending sentence!*
+*Feel free to tweak the template to better suit your course and speaking style, as long as you follow the 4 steps listed above. But do NOT change the ending sentence! And remember that for most of the promo, you will not be visible on screen (voice only!) so avoid joking comments or statments that require your facial expressions/body language to be visible.*
 
 --
 
